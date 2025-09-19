@@ -23,3 +23,8 @@ You can download and install the app from the link below:
 🔗 **[Download APK](https://www.upload-apk.com/nIhJCJdNsjygoGc)**  
 
 > 💡 *Tip:* Use **Brave Browser** for an easier download experience.
+
+
+## 📜 License
+This project is **not open source**.  
+All rights reserved © 2025 Aditya Singh.  

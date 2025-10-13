@@ -13,7 +13,7 @@ A feature-rich music application built to stream and explore songs using modern 
 
 ## 🛠️ Tech Stack
 - **Platform:** Android Studio  
-- **Language:** Kotlin  
+- **Language:** Kotlin   
 - **APIs Used:** Rapid API, Deezer API  
 
 ---

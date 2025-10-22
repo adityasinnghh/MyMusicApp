@@ -9,7 +9,7 @@ A feature-rich music application built to stream and explore songs using modern 
 - Integration with **Rapid API** and **Deezer API** for a wide music library  
 - Clean and intuitive UI/UX  
 
----
+--- 
 
 ## 🛠️ Tech Stack
 - **Platform:** Android Studio  

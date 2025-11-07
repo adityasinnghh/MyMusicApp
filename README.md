@@ -1,7 +1,7 @@
   # 🎵 Music App   
   
 A feature-rich music application built to stream and explore songs using modern APIs.  
- 
+  
 ---
  
 ## 📱 Features

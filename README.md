@@ -10,7 +10,7 @@ A feature-rich music application built to stream and explore songs using modern 
 - Clean and intuitive UI/UX  
 
 --- 
-  
+   
 ## 🛠️ Tech Stack 
 - **Platform:** Android Studio  
 - **Language:** Kotlin   
